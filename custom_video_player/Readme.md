@@ -7,7 +7,6 @@
     </ul>
 <br>
 <h3>✅  What I Learned</h3>
-<br>
 <h4>HTML&CSS</h4>
 <ol>
     <li>video tag </li>
@@ -31,7 +30,7 @@
 <br>
 <br>
 <li>메서드와 프로퍼티의 차이</li>
-- 자바스크립트의 객체는 키(key)과 값(value)으로 구성된 프로퍼티(Property)들의 집합입니다. <br><br>
+- 자바스크립트의 객체는 키(key)과 값(value)으로 구성된 프로퍼티(Property)들의 집합입니다. <br>
 - A property is a named attribute of an object. Properties define the characteristics of an object such as Size, Color etc. or sometimes the way in which it behaves. A method is an action that can be performed on objects.<br>
 <br>
 참고: https://www.youtube.com/watch?v=_DLhUBWsRtw

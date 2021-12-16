@@ -12,7 +12,6 @@ Purpose : Learn how to validate form with javascript
     </ul>
 <br>
 <h3>✅  What I Learned</h3>
-<br>
 <h4>HTML&CSS</h4>
 <ol>
     <li>font를 html파일에 넣을때는 link로, css에 넣을때는 import로 처리한다</li>
@@ -42,7 +41,6 @@ Purpose : Learn how to validate form with javascript
     예시: js email regex라고 검색 후 구글링
     </li>
     <li>High Order Array Method: forEach를 사용해서 가능하다.</li>
-    <li></li>
 </ol>
 <br>
 <h3>✅  개선해야 할 부분</h3>
