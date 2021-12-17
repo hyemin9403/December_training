@@ -6,8 +6,7 @@
         <li>영화와 좌석 선택지를 기억하고 불러올 수 있다.</li>
     </ul>
 <br>
-<h3>✅  What I Learned</h3>
-<br>
+<h3>✅  What I Learned</h3>ß
 <h4>HTML&CSS</h4>
 <ol>
     <li>apperance: 네이티브(=OS/브라우저 자체 테마) 요소 디자인 해제/변경</li>
