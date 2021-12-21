@@ -31,13 +31,13 @@
 
 ![alt text](img/ajax.gif)
 
-AJAX 참고:
-https://www.youtube.com/watch?v=82hnvUYY6QA (Traversy)
-https://www.w3schools.com/js/js_ajax_intro.asp (w3s)
+AJAX 참고:<br>
+https://www.youtube.com/watch?v=82hnvUYY6QA (Traversy)<br>
+https://www.w3schools.com/js/js_ajax_intro.asp (w3s)<br>
 
-JSON 참고:
-https://www.youtube.com/watch?v=FN_D4Ihs3LE (드림코딩-JSON)
-https://www.youtube.com/watch?v=wI1CWzNtE-M (Traversy)
+JSON 참고:<br>
+https://www.youtube.com/watch?v=FN_D4Ihs3LE (드림코딩-JSON)<br>
+https://www.youtube.com/watch?v=wI1CWzNtE-M (Traversy)<br>
 
-Fetch API 참고:
+Fetch API 참고:<br>
 https://www.youtube.com/watch?v=Oive66jrwBs&t=1545s (Traversy)
