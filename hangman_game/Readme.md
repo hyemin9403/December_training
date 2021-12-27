@@ -59,3 +59,5 @@ remove elements in array
 - showNotification에 message를 인자로 넣고,
   notification.innerText = `${message}`로 처리해서
   다양한 메시지를 보낼 수 있다.
+
+-- 업데이트 필요 --
