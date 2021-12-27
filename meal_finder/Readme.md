@@ -18,25 +18,22 @@
 </ol>
 <h4>Javascript</h4>
 <ol>
-    <li>(Falsy)If문 without operator</li>
-    - Falsy : 거짓으로 간주되는 값
-    - 왜 이런식으로 쓸까 했는데, 괄호 안의 표현식이 false, null, 0, "" 또는 undefined가 아닌 다른 것을 반환하는 한 if 문의 블록이 실행되기 때문
-    - 예시 : if (term.trim()), if (item.classList)
-    참고: https://stackoverflow.com/questions/3494614/javascript-if-statement-condition-with-no-operator-what-does-it-do
-    참고: https://developer.mozilla.org/en-US/docs/Glossary/Falsy
+    <li>If문 without operator(Falsy)</li>
+    - Falsy : 거짓으로 간주되는 값<br>
+    - 괄호 안의 표현식이 false, null, 0, "" 또는 undefined가 아닌 다른 것을 반환하는 한 if 문의 블록이 실행된다.<br>
+    - 예시 : if (term.trim()), if (item.classList)<br>
+    <br>
+    참고: https://stackoverflow.com/questions/3494614/javascript-if-statement-condition-with-no-operator-what-does-it-do<br>
+    참고: https://developer.mozilla.org/en-US/docs/Glossary/Falsy<br>
+    <br>
     <li>find 메서드</li>
-    -
-
-mealsEl.addEventListener("click", (e) => {
-const mealInfo = e.path.find(item => console.log(item));
-});
-
-해당 item을 클릭할때까지의 html path를 document부터 써준다.
-
-find()
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find
-
-contains와 getAttribute의 차이
-
-api를 갖고 작업할때는 console.log로 계속 찍어보고
-api 예시를 하나 켜놓고 작업하는 게 좋다.
+    - 테스트를 통과하는 배열의 첫번째 값을 반환하고 만족하는 값이 없으면 undefined 반환<br>
+    참고: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find<br>
+    <br>
+    <li>contains()와 getAttribute</li>
+    - contains(): contains() 메서드는 문자열에 일련의 문자가 포함되어 있는지 확인하고 문자가 있으면 true를 반환하고 없으면 false를 반환합니다.<br>
+    - getAttribute: 클래스 이름을 넣으면 속성을 반환한다.<br>
+    <br>
+    <li>api를 갖고 작업할때는 console.log로 계속 찍어보고
+api 예시를 하나 켜놓고 작업하는 게 좋다.</li>
+</ol>
