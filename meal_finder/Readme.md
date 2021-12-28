@@ -1,4 +1,4 @@
-<h1>Project : DOM Array Methods</h1>
+<h1>Project : Meal Finder</h1>
 
 <h3>✅  구현하고자 하는 기능</h3>
     <ul>
